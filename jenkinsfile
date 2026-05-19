@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = "docker1221/hello-app"
+        DOCKER_IMAGE = "aditya1221hitk/hello-app"
     }
 
     stages {
